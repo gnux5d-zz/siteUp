@@ -1,0 +1,5 @@
+# message.txt example
+
+Good afternoon my good sir,
+
+your page is alive!
