@@ -1,4 +1,4 @@
-# email-alert
+# siteUp
 A simple email alert loop using crontab in Linux.
 
 This code is an email alert to verify a metadata (e.g. status code) from requests on URLs and send an email to a single person or a group alerting about whatever you wish. 
