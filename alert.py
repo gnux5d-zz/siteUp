@@ -66,6 +66,7 @@ if not os.path.isfile(contactsFile):
 port = 587
 smtp_server = "smtp.gmail.com"
 
+source = open(sourceFile).readlines()
 # Checking the structure of source file and printout the correct format in any error case.
 if len(source) > 2:
     print("Usage ERROR: source file must contain sender email and password, e.g.:")
