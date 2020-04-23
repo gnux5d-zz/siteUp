@@ -1,0 +1,5 @@
+# this is an example, it can contain one single receiver email or multiple
+
+bobtheblob@mail.com
+thealligator@mail.com
+...
