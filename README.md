@@ -7,7 +7,7 @@ The loop is not implemented on the code, instead uses the crontab in Linux to sc
 
 Input: you need to place three files in the same directory as the code (contacts.txt, source.txt, message.txt), each one with a specfic information. The source.txt is a duo-line file, the first the sender email and the second with its password; contacts.txt is a multiple line file containing all (or 1) receivers email, one email per line; message.txt is a multiple line with your message body.
 
-source.txt
+source.txt\n
   email: xxxxxxxx@xxxx.com
   password: whatsup
 
