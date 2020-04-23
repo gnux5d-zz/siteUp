@@ -1,0 +1,4 @@
+# this is an example
+
+email: sender@mail.com
+password: whatsup
