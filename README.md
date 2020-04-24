@@ -19,3 +19,5 @@ Add the line:
 */2 * * * * /path/to/bin/python3 /path/to/alert/alert.py >> /same/path/as/alert/alert.log
 
 The redirect stdout to a log file is optional but recommended! 
+
+PS: remember to set up yout Gmail sender email, allowing less secure apps to ON.
